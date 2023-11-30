@@ -1,8 +1,8 @@
 # app-dev
 My first repository
 write some information about your favorite series/movie:
-```
-ReadyPlayerOne
-John Wick
-Insidious The Red Door
-```
+<ol>
+  <li>ReadyPlayerOne</li>
+  <li>John Wick</li>
+  <li>Insidious The Red Room</li>
+</ol>
